@@ -1,0 +1,3 @@
+x = 5
+sum = x * 3 / 5
+if sum > 1 then sum = sum + 1 else sum = sum - 1
